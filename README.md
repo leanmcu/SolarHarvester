@@ -6,11 +6,14 @@ The harvester is reported to draw a maximum of 30mA from a solar panel and provi
 
 HIGH POWER MODE
 
-VLOAD,MIN	VLOAD,MID	VLOAD,TYP 	VLOAD,MAX
-3.15 V 		3.23 V 		3.28 V 		3.34 V
+VLOAD,MIN: 3.15 V
+VLOAD,MID: 3.23 V
+VLOAD,TYP: 3.28 V
+VLOAD,MAX: 3.34 V
 
-VOVDIS		VCHRDY		VOVCH
-0.20 V 		1.00 V 		2.60 V
-
+VOVDIS:	0.20 V
+VCHRDY: 1.00 V
+VOVCH: 2.60 V
+ 		 		
 Please see the AEM10330 datasheet
 https://e-peas.com/documents/AEM10330/DS-AEM10330.pdf
