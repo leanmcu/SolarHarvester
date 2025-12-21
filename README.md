@@ -17,3 +17,14 @@ VOVCH: 2.60 V
  		 		
 Please see the AEM10330 datasheet
 https://e-peas.com/documents/AEM10330/DS-AEM10330.pdf
+
+## License
+
+Copyright © 2025 LeanMCU
+
+This hardware design (schematics, pinout, PCB files)
+is licensed under the Creative Commons
+Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+
+Commercial manufacturing or sale is not permitted without
+explicit written permission from the author.
