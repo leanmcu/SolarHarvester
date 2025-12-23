@@ -27,4 +27,4 @@ is licensed under the Creative Commons
 Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
 
 Commercial manufacturing or sale is not permitted without
-explicit written permission from the author.
+explicit written permission from the author [leanmcu(at)gmail(dot)com].
